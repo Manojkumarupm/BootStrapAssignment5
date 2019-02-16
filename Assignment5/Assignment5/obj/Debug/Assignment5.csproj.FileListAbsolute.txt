@@ -1,0 +1,6 @@
+C:\Users\m9peru\Desktop\FSE\Bootstrap\Assignment5\Assignment5\bin\Assignment5.dll.config
+C:\Users\m9peru\Desktop\FSE\Bootstrap\Assignment5\Assignment5\bin\Assignment5.dll
+C:\Users\m9peru\Desktop\FSE\Bootstrap\Assignment5\Assignment5\bin\Assignment5.pdb
+C:\Users\m9peru\Desktop\FSE\Bootstrap\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\m9peru\Desktop\FSE\Bootstrap\Assignment5\Assignment5\obj\Debug\Assignment5.dll
+C:\Users\m9peru\Desktop\FSE\Bootstrap\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
